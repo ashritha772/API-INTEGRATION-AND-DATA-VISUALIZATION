@@ -58,3 +58,7 @@ Outcome
 ✅ Successfully built an automated weather dashboard.
 ✅ Demonstrated API integration + ETL + Visualization pipeline.
 ✅ Ready for extension (e.g., multi-city comparison, live updates).
+
+##OUTPUT
+
+"C:\Users\ashri\Videos\Captures\Captures - File Explorer 30-06-2025 19_01_36.png"
